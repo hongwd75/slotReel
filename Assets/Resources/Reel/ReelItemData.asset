@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39375ab0b38442ecaaff0bf48791fffc, type: 3}
+  m_Name: ReelItemData
+  m_EditorClassIdentifier: 
+  Objects:
+  - normal: {fileID: 1596636647, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: -646594873, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 1
+    type: 0
+  - normal: {fileID: -2134627542, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: -885489514, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 2
+    type: 1
+  - normal: {fileID: 240973750, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: -1402544341, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 3
+    type: 2
+  - normal: {fileID: -432762466, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: -1102952758, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 4
+    type: 3
+  - normal: {fileID: 23211426, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: 1065491931, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 5
+    type: 4
+  - normal: {fileID: -1136330797, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    activite: {fileID: 194516358, guid: a5e645d0b2507ac42807ef8e886f7d45, type: 3}
+    score: 6
+    type: 5
